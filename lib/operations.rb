@@ -5,7 +5,6 @@ def unsafe?(speed)
 		puts false
 	else
 		puts false
-	end
 end
 
 
